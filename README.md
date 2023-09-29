@@ -17,13 +17,16 @@
 **GitHub** is a platform used by software developers for collaborations and web based version control. Developers can make changes to their software from their public repositories.
 <br><br><br>
 
+""Directions on How to Use WebStorm**
+<br><br><br>
+
 **Glossary**
 <br>
 
 **Branch** - allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository
 <br>
 
-**Clone** - a local copy of a repository.
+**Clone** - a local copy of a repository
 <br>
 
 **Commit** - an individual change to a file or set of files
@@ -32,25 +35,25 @@
 **Fetch** - to retrieve new work done by other people
 <br>
 
-**GIT**
+**GIT** - tracks changes to code
 <br>
 
-**Github**
+**Github** - hosts Git repositories, fosters collaboration.
 <br>
 
 **Merge** - combine multiple sequences of commits into one unified history
 <br>
 
-**Merge Conflict** - combine separate branches and resolve any conflicting edits.
+**Merge Conflict** - combine separate branches and resolve any conflicting edits
 <br>
 
-**Push** - a programmer sends code from a local copy to the online repository.
+**Push** - a programmer sends code from a local copy to the online repository
 <br>
 
-**Pull** - if a developer would like to share their modifications, they can send a pull request to the owner of the original repository.
+**Pull** - if a developer would like to share their modifications, they can send a pull request to the owner of the original repository
 <br>
 
-**Remote** - manage the set of repositories whose branches you track.
+**Remote** - manage the set of repositories whose branches you track
 <br>
 
 **Repository** - contains all of your project's files and each file's revision history
