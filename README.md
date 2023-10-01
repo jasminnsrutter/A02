@@ -17,7 +17,15 @@
 **GitHub** is a platform used by software developers for collaborations and web based version control. Developers can make changes to their software from their public repositories.
 <br><br><br>
 
-""Directions on How to Use WebStorm**
+**Directions on How to Use WebStorm**
+<br>
+1. Install **[WebStorm]**(https://www.jetbrains.com/community/education/#students)
+ <br>
+2. Install **[Git]**(https://git-scm.com/downloads) as a local program
+<br>
+3. Set up **[GitHub]**(https://git-scm.com/downloads) by creating a GitHub account
+<br>
+4. Connect **GitHub** with **WebStorm** by pressing (Ctrl+Alt+S) in **WebStorm** to get to system preferences. Select Version control Git. Enter the path to the git.exe
 <br><br><br>
 
 **Glossary**
