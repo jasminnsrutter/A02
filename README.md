@@ -45,7 +45,6 @@
 <br>
 
 **Branch** - allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your **repository**.
-
 <br>
 
 **Clone** - a local copy of a repository.
