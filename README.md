@@ -21,9 +21,9 @@
 
 **Directions on How to Use WebStorm**
 <br>
-1. Install **[WebStorm]**(https://www.jetbrains.com/community/education/#students)
-2. Install **[Git]**(https://git-scm.com/downloads) as a local program
-3. Set up **[GitHub]**(https://git-scm.com/downloads) by creating a GitHub account
+1. Install [WebStorm](https://www.jetbrains.com/community/education/#students)
+2. Install [Git](https://git-scm.com/downloads) as a local program
+3. Set up [GitHub](https://git-scm.com/downloads) by creating a GitHub account
 4. Connect **GitHub** with **WebStorm** by pressing (Ctrl+Alt+S) in **WebStorm** to get to system preferences. Select Version control Git. Enter the path to the git.exe
 5. Go back to **GitHub**, click + sign in the upper right corner, and choose "Create a New Repository".
 6. Make the **repository** public and add the readme file, then click create.
