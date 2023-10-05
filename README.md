@@ -80,15 +80,37 @@
 **Repository** - contains all of your project's files and each file's revision history.
 <br><br><br>
 
+
+
+
 **Sources**
-https://www.techtarget.com/searchitoperations/definition/GitHub
-https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
+<br>
+
+Lutkevich, Ben, and Meredith Courtemanche. “What Is Github?: Definition from TechTarget.” IT Operations, TechTarget, 21 Feb. 2023, www.techtarget.com/searchitoperations/definition/GitHub. 
+<br>
+
+“Getting Started with WebStorm: WebStorm.” WebStorm Help, JetBrains s.r.o., 6 Sept. 2023, www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html. 
+<br>
+
 https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository
-https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
-https://www.atlassian.com/git/tutorials/using-branches/git-merge
-https://git-scm.com/docs/git-remote
-https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts
-https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
+<br>
+
+“Getting Changes from a Remote Repository.” GitHub Docs, GitHub, Inc., 2 Jan. 2013, docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository. 
+<br>
+
+“Collaborating with Pull Requests.” GitHub Docs, GitHub, Inc., 1 July 2020, docs.github.com/en/pull-requests/collaborating-with-pull-requests. 
+<br>
+
+“Pull Requests: Atlassian Git Tutorial.” Atlassian, Atlassian, 11 Sept. 2014, www.atlassian.com/git/tutorials/making-a-pull-request. 
+<br>
+
+“About Repositories.” GitHub Docs, GitHub, Inc., 11 Feb. 2020, docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories. 
+<br>
+
 Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press.
+<br>
+
 Jetbrains. (2019). Git. Retrieved October 1, 2023, from https://www.jetbrains.com/help/webstorm/using-git-integration.html
+<br>
+
 GitHub (2019) GitHub Guides Tutorial. Retrieved October 1, 2023, from https://guides.github.com/activities/hello-world/
