@@ -27,18 +27,19 @@
 4. Connect **GitHub** with **WebStorm** by pressing (Ctrl+Alt+S) in **WebStorm** to get to system preferences. Select Version control Git. Enter the path to the git.exe
 5. Go back to **GitHub**, click + sign in the upper right corner, and choose "Create a New Repository".
 6. Make the **repository** public and add the readme file, then click create.
-7. Go back to **WebStorm**, select VCS, and import a repository into version control.
-8. From Main page Select Checkout from version control :arrow_right: **Git** OR From within **Webstorm** Select VCS :arrow_right: Checkout from version control :arrow_right: **Git**. Enter **Github repository** name. Enter local path name. 
-9. Choose File :arrow_right: HTML :arrow_right: HTML 5 or File :arrow_right: Stylesheet
-10. The Add to **Git** dialog opens. Click Add. This adds to local file system.
-11. **Commit** your changes.
-12. Occasionally, use **Git** to **fetch** changes from the repository by using "VCS ➡️ **Git** ➡️ **Fetch**" and **merge** changes by using "VCS ➡️ **Git** ➡️ **Merge**" into your local branch.
-13. If there are any **merge conflicts** when merging, go into WebStorm to find the conflicting files and editing them to resolve conflicts. After fixing files add changes to **Git** and **commit** again.
-14. **Pull** your changes from **remote repository** by using "VCS ➡️ **Git** ➡️ **Pull**". 
-15. **Push** your changes to **remote repository** by clicking “Ctrl :arrow_right: Shift :arrow_right: K” Or “VCS :arrow_right: **Git** :arrow_right: **Push**. The file is now in **GitHub**.
-16. To set up **GitHub** pages, click Settings, and check the **repository** name.
-17. Choose the **GitHub** page location by selecting "Master **branch**".
-18. Check your **GitHub** pages by copying the **Github**.io URL into a browser. Post the URL into Moodle with your **Github** account URL.
+7. To **clone** the **repository**, go to **WebStorm**, select VCS, and choose **Git**. Select "**clone**" and enter **Github repository** URL. Lastly, choose a local path for clone (i.e. folder on desktop). 
+8. Go back to **WebStorm**, select VCS, and import a repository into version control.
+9. From Main page Select Checkout from version control :arrow_right: **Git** OR From within **Webstorm** Select VCS :arrow_right: Checkout from version control :arrow_right: **Git**. Enter **Github repository** name. Enter local path name. 
+10. Choose File :arrow_right: HTML :arrow_right: HTML 5 or File :arrow_right: Stylesheet
+11. The Add to **Git** dialog opens. Click Add. This adds to local file system.
+12. **Commit** your changes.
+13. Occasionally, use **Git** to **fetch** changes from the repository by using "VCS ➡️ **Git** ➡️ **Fetch**" and **merge** changes by using "VCS ➡️ **Git** ➡️ **Merge**" into your local branch.
+14. If there are any **merge conflicts** when merging, go into WebStorm to find the conflicting files and editing them to resolve conflicts. After fixing files add changes to **Git** and **commit** again.
+15. **Pull** your changes from **remote repository** by using "VCS ➡️ **Git** ➡️ **Pull**". 
+16. **Push** your changes to **remote repository** by clicking “Ctrl :arrow_right: Shift :arrow_right: K” Or “VCS :arrow_right: **Git** :arrow_right: **Push**. The file is now in **GitHub**.
+17. To set up **GitHub** pages, click Settings, and check the **repository** name.
+18. Choose the **GitHub** page location by selecting "Master **branch**".
+19. Check your **GitHub** pages by copying the **Github**.io URL into a browser. Post the URL into Moodle with your **Github** account URL.
 
 
 
