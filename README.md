@@ -32,10 +32,13 @@
 9. Choose File :arrow_right: HTML :arrow_right: HTML 5 or File :arrow_right: Stylesheet
 10. The Add to **Git** dialog opens. Click Add. This adds to local file system.
 11. **Commit** your changes.
-12. **Push** your changes to **remote repository** by clicking “Ctrl :arrow_right: Shift :arrow_right: K” Or “VCS :arrow_right: **Git** :arrow_right: **Push**. The file is now in **GitHub**.
-13. To set up **GitHub** pages, click Settings, and check the **repository** name.
-14. Choose the **GitHub** page location by selecting "Master **branch**".
-15. Check your **GitHub** pages by copying the **Github**.io URL into a browser. Post the URL into Moodle with your **Github** account URL.
+12. Occasionally, use **Git** to **fetch** changes from the repository by using "VCS ➡️ **Git** ➡️ **Fetch**" and **merge** changes by using "VCS ➡️ **Git** ➡️ **Merge**" into your local branch.
+13. If there are any **merge conflicts** when merging, go into WebStorm by finding conflicting files and editing them to resolve conflicts. After fixing files add changes to **Git** and **commit** again.
+14. **Pull** your changes from **remote repository** by using "VCS ➡️ **Git** ➡️ **Pull**". 
+15. **Push** your changes to **remote repository** by clicking “Ctrl :arrow_right: Shift :arrow_right: K” Or “VCS :arrow_right: **Git** :arrow_right: **Push**. The file is now in **GitHub**.
+16. To set up **GitHub** pages, click Settings, and check the **repository** name.
+17. Choose the **GitHub** page location by selecting "Master **branch**".
+18. Check your **GitHub** pages by copying the **Github**.io URL into a browser. Post the URL into Moodle with your **Github** account URL.
 
 
 
