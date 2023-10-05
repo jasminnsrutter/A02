@@ -33,7 +33,7 @@
 10. The Add to **Git** dialog opens. Click Add. This adds to local file system.
 11. **Commit** your changes.
 12. Occasionally, use **Git** to **fetch** changes from the repository by using "VCS ➡️ **Git** ➡️ **Fetch**" and **merge** changes by using "VCS ➡️ **Git** ➡️ **Merge**" into your local branch.
-13. If there are any **merge conflicts** when merging, go into WebStorm by finding conflicting files and editing them to resolve conflicts. After fixing files add changes to **Git** and **commit** again.
+13. If there are any **merge conflicts** when merging, go into WebStorm to find the conflicting files and editing them to resolve conflicts. After fixing files add changes to **Git** and **commit** again.
 14. **Pull** your changes from **remote repository** by using "VCS ➡️ **Git** ➡️ **Pull**". 
 15. **Push** your changes to **remote repository** by clicking “Ctrl :arrow_right: Shift :arrow_right: K” Or “VCS :arrow_right: **Git** :arrow_right: **Push**. The file is now in **GitHub**.
 16. To set up **GitHub** pages, click Settings, and check the **repository** name.
