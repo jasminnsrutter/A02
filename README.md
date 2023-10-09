@@ -90,31 +90,28 @@
 **Sources**
 <br>
 
-Lutkevich, Ben, and Meredith Courtemanche. “What Is Github?: Definition from TechTarget.” IT Operations, TechTarget, 21 Feb. 2023, www.techtarget.com/searchitoperations/definition/GitHub. 
+“About Repositories.” GitHub Docs, GitHub, Inc., 11 Feb. 2020, docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories. 
 <br>
 
-“Getting Started with WebStorm: WebStorm.” WebStorm Help, JetBrains s.r.o., 6 Sept. 2023, www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html. 
-<br>
-
-https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository
-<br>
-
-“Getting Changes from a Remote Repository.” GitHub Docs, GitHub, Inc., 2 Jan. 2013, docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository. 
+Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press. 
 <br>
 
 “Collaborating with Pull Requests.” GitHub Docs, GitHub, Inc., 1 July 2020, docs.github.com/en/pull-requests/collaborating-with-pull-requests. 
 <br>
 
+“Getting Changes from a Remote Repository.” GitHub Docs, GitHub, Inc., 2 Jan. 2013, docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository.
+<br>
+
+“Getting Started with WebStorm: WebStorm.” WebStorm Help, JetBrains s.r.o., 6 Sept. 2023, www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html. 
+<br>
+
+“Git: Webstorm.” WebStorm Help, JetBrains s.r.o., 24 Aug. 2023, www.jetbrains.com/help/webstorm/using-git-integration.html.  
+<br>
+
+“Hello World.” GitHub Docs, GitHub, Inc., 22 Feb. 2022, docs.github.com/en/get-started/quickstart/hello-world. 
+<br>
+
+Lutkevich, Ben, and Meredith Courtemanche. “What Is Github?: Definition from TechTarget.” IT Operations, TechTarget, 21 Feb. 2023, www.techtarget.com/searchitoperations/definition/GitHub. 
+<br>
+
 “Pull Requests: Atlassian Git Tutorial.” Atlassian, Atlassian, 11 Sept. 2014, www.atlassian.com/git/tutorials/making-a-pull-request. 
-<br>
-
-“About Repositories.” GitHub Docs, GitHub, Inc., 11 Feb. 2020, docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories. 
-<br>
-
-Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press.
-<br>
-
-Jetbrains. (2019). Git. Retrieved October 1, 2023, from https://www.jetbrains.com/help/webstorm/using-git-integration.html
-<br>
-
-GitHub (2019) GitHub Guides Tutorial. Retrieved October 1, 2023, from https://guides.github.com/activities/hello-world/
